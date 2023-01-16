@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luis@luiszarza.com
+	name = Luis Zarza
